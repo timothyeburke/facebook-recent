@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Facebook Most Recent",
   "description": "Always be on most recent view of Facebook Timeline",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "background": {
     "scripts":["background.js"]
   },
